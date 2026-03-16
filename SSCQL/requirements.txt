@@ -1,0 +1,16 @@
+# python 3.11.11
+ogbench == 1.1.0a1
+jax[cuda12] == 0.5.0
+flax == 0.10.3
+distrax == 0.1.5
+ml_collections
+matplotlib
+moviepy
+wandb
+d4rl
+gymnasium == 0.29.1
+gym == 0.23.1
+numpy == 1.26.4
+shimmy[gym-v21,gym-v26]
+Cython == 0.29.37
+mjrl @ git+https://github.com/aravindr93/mjrl@master#egg=mjrl
