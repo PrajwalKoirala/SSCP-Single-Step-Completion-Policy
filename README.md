@@ -40,3 +40,13 @@ If you find this repo useful, please consider [citing](https://scholar.google.co
 For inquiries, please find my up-to-date contact information [here 📫.](https://prajwalkoirala.github.io/)
 
 
+
+<p align="center">
+  <a href="https://iclr.cc/media/PosterPDFs/ICLR%202026/10006918.png" target="_blank">
+    <img src="https://iclr.cc/media/PosterPDFs/ICLR%202026/10006918.png"
+         alt="[ICLR 2026 Poster]"
+         width="600">
+  </a>
+</p>
+
+
